@@ -119,7 +119,7 @@ class Stock
    */
   public function stock_entry()
   {
-    require_once APPROOT . "/View/Stock-entry.php";
+    require_once APPROOT . "/View/Display/Stock-entry.php";
   }
 
 
